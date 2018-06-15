@@ -1,10 +1,10 @@
-# Clear Measure Bootcamp 
+# Clear Measure Bootcamp
 
-**This project is the starting point for folks taking part in the Clear Measure 
-Bootcamp.** 
+**This project is the starting point for folks taking part in the Clear Measure
+Bootcamp.**
 
 This course is a feature-driven walkthrough that guides participants through
-a series of improvements to an existing code base, demonstrating best pracitices and 
+a series of improvements to an existing code base, demonstrating best pracitices and
 and working through scenarios targetting 300- and 400-level developers.
 
 ## Getting Started
@@ -18,7 +18,7 @@ and working through scenarios targetting 300- and 400-level developers.
 ## Application Overview
 
 The starting point is an expense report application with a very limited feature set, and
-room to improve. You will work through defining and prioritizing new features, then work 
+room to improve. You will work through defining and prioritizing new features, then work
 in pairs to build these out. Your product owner/trainer/engineering manager will present you with new requirements
 while you map out how things will be built, pair programming and working through a series
 of iterations, writing tests and leveraging CI. Roll up the sleeves!
@@ -33,4 +33,4 @@ You will need to have the following installed for this project to work:
  - A GitHub account ([good thing you're already here](https://github.com/join))
 
 
-
+HALEY MADE A SMALL CHANGE !!
